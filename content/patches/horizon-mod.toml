@@ -1,0 +1,14 @@
+# Port-owned content mod for Macaw's Trapdoors 1.1.5 (1.21.1 NeoForge),
+# carried to Minecraft 26.3 / Horizon `1d63e0a`: 176 wooden trapdoors on the
+# vanilla oak-trapdoor template and the 3 metal ones on the vanilla iron
+# trapdoor, plus the 12 print items. The textures, models, blockstates,
+# recipes, loot tables and lang are the upstream mod's own MIT assets
+# (local-only until the maintainer approves publishing; see ../notes.md).
+id = "mcwtrpdoors"
+name = "Macaw's Trapdoors"
+version = "1.1.5"
+description = "Barn, barred, beach, cottage, four-panel, glass, mystic, paper, tropical, swamp, bamboo, blossom, classic, bark, ranch and barrel trapdoors in eleven woods, three metal trapdoors and twelve prints"
+authors = ["Sketch Macaw", "Peachy Macaw"]
+api = "0.2"
+side = "both"
+capabilities = ["registries"]

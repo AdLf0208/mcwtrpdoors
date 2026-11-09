@@ -1,0 +1,16 @@
+{
+  "group": "bark_trapdoors",
+  "key": {
+    "A": "minecraft:acacia_log",
+    "B": "minecraft:glass_pane"
+  },
+  "pattern": [
+    "ABA",
+    "ABA"
+  ],
+  "result": {
+    "count": 2,
+    "id": "mcwtrpdoors:acacia_bark_trapdoor"
+  },
+  "type": "minecraft:crafting_shaped"
+}

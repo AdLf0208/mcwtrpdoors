@@ -1,0 +1,15 @@
+{
+  "key": {
+    "A": "minecraft:iron_ingot",
+    "B": "mcwtrpdoors:metal_trapdoor"
+  },
+  "pattern": [
+    "A",
+    "B"
+  ],
+  "result": {
+    "count": 1,
+    "id": "mcwtrpdoors:metal_full_trapdoor"
+  },
+  "type": "minecraft:crafting_shaped"
+}

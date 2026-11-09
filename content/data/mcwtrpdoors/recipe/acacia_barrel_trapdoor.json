@@ -1,0 +1,17 @@
+{
+  "group": "barrel_trapdoors",
+  "key": {
+    "A": "minecraft:acacia_planks",
+    "B": "minecraft:barrel"
+  },
+  "pattern": [
+    " A ",
+    "ABA",
+    " A "
+  ],
+  "result": {
+    "count": 4,
+    "id": "mcwtrpdoors:acacia_barrel_trapdoor"
+  },
+  "type": "minecraft:crafting_shaped"
+}

@@ -1,0 +1,17 @@
+{
+  "group": "beach_trapdoors",
+  "key": {
+    "A": "minecraft:warped_planks",
+    "B": "mcwtrpdoors:print_beach"
+  },
+  "pattern": [
+    "A",
+    "B",
+    "A"
+  ],
+  "result": {
+    "count": 1,
+    "id": "mcwtrpdoors:warped_beach_trapdoor"
+  },
+  "type": "minecraft:crafting_shaped"
+}

@@ -1,0 +1,17 @@
+{
+  "group": "beach_trapdoors",
+  "key": {
+    "A": "minecraft:bamboo",
+    "B": "mcwtrpdoors:print_beach"
+  },
+  "pattern": [
+    "AAA",
+    "ABA",
+    "AAA"
+  ],
+  "result": {
+    "count": 1,
+    "id": "mcwtrpdoors:bamboo_beach_trapdoor"
+  },
+  "type": "minecraft:crafting_shaped"
+}

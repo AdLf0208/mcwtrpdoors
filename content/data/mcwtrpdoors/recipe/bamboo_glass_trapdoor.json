@@ -1,0 +1,17 @@
+{
+  "group": "glass_trapdoors",
+  "key": {
+    "A": "minecraft:bamboo",
+    "B": "minecraft:glass_pane"
+  },
+  "pattern": [
+    "AAA",
+    "ABA",
+    "AAA"
+  ],
+  "result": {
+    "count": 2,
+    "id": "mcwtrpdoors:bamboo_glass_trapdoor"
+  },
+  "type": "minecraft:crafting_shaped"
+}

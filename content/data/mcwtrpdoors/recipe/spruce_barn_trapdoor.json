@@ -1,0 +1,16 @@
+{
+  "group": "barn_trapdoors",
+  "key": {
+    "A": "minecraft:spruce_planks",
+    "B": "mcwtrpdoors:spruce_glass_trapdoor"
+  },
+  "pattern": [
+    "A",
+    "B"
+  ],
+  "result": {
+    "count": 1,
+    "id": "mcwtrpdoors:spruce_barn_trapdoor"
+  },
+  "type": "minecraft:crafting_shaped"
+}

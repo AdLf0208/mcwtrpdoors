@@ -1,0 +1,16 @@
+{
+  "group": "barn_trapdoors",
+  "key": {
+    "A": "minecraft:dark_oak_planks",
+    "B": "mcwtrpdoors:dark_oak_glass_trapdoor"
+  },
+  "pattern": [
+    "A",
+    "B"
+  ],
+  "result": {
+    "count": 1,
+    "id": "mcwtrpdoors:dark_oak_barn_trapdoor"
+  },
+  "type": "minecraft:crafting_shaped"
+}

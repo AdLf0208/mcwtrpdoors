@@ -1,0 +1,14 @@
+{
+  "key": {
+    "A": "minecraft:bamboo"
+  },
+  "pattern": [
+    "AAA",
+    "AAA"
+  ],
+  "result": {
+    "count": 1,
+    "id": "mcwtrpdoors:bamboo_trapdoor"
+  },
+  "type": "minecraft:crafting_shaped"
+}

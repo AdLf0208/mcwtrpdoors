@@ -1,0 +1,16 @@
+{
+  "key": {
+    "A": "minecraft:paper",
+    "B": "minecraft:dark_oak_trapdoor"
+  },
+  "pattern": [
+    " A ",
+    "ABA",
+    " A "
+  ],
+  "result": {
+    "count": 4,
+    "id": "mcwtrpdoors:print_four_panel"
+  },
+  "type": "minecraft:crafting_shaped"
+}

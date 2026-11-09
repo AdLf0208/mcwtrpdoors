@@ -1,0 +1,17 @@
+{
+  "group": "barrel_trapdoors",
+  "key": {
+    "A": "minecraft:mangrove_planks",
+    "B": "minecraft:barrel"
+  },
+  "pattern": [
+    " A ",
+    "ABA",
+    " A "
+  ],
+  "result": {
+    "count": 4,
+    "id": "mcwtrpdoors:mangrove_barrel_trapdoor"
+  },
+  "type": "minecraft:crafting_shaped"
+}

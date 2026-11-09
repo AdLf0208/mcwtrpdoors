@@ -1,0 +1,17 @@
+{
+  "group": "paper_trapdoors",
+  "key": {
+    "A": "minecraft:bamboo",
+    "B": "mcwtrpdoors:print_paper"
+  },
+  "pattern": [
+    "AAA",
+    "ABA",
+    "AAA"
+  ],
+  "result": {
+    "count": 1,
+    "id": "mcwtrpdoors:bamboo_paper_trapdoor"
+  },
+  "type": "minecraft:crafting_shaped"
+}

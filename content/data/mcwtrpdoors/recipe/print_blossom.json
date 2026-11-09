@@ -1,0 +1,16 @@
+{
+  "key": {
+    "A": "minecraft:paper",
+    "B": "minecraft:cherry_trapdoor"
+  },
+  "pattern": [
+    " A ",
+    "ABA",
+    " A "
+  ],
+  "result": {
+    "count": 4,
+    "id": "mcwtrpdoors:print_blossom"
+  },
+  "type": "minecraft:crafting_shaped"
+}
